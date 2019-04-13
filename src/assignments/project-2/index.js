@@ -52,7 +52,7 @@ class Chat extends React.Component {
 		const {currentText} = this.state
 
 		return <div>
-			<h1>Chatroom</h1>
+			<h1>Group 1 Chatroom</h1>
 
 			<h2>Members</h2>
 			<ul>
